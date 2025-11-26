@@ -1,0 +1,19 @@
+--- texto1.txt	2025-09-18 19:31:32.174817356 -0300
++++ texto2.txt	2025-09-18 19:32:02.759421291 -0300
+@@ -11,6 +11,7 @@
+ palavra repetida
+ palavra repetida
+ palavra repetida
++palavra nao repetida
+ palavra repetida
+ palavra repetida
+ palavra repetida
+@@ -26,6 +27,6 @@
+ palavra repetida
+ palavra repetida
+ palavra repetida
++palavra nao repetida
+ palavra repetida
+-palavra repetida
+-palavra repetida
++laranja
